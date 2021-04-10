@@ -1,0 +1,7 @@
+.vscode/
+devops/db/
+coverage/
+node_modules/
+
+.env
+yarn.lock
